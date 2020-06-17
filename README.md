@@ -1,6 +1,8 @@
 # Curbside Pickup
 ## Overview
-The Curbside Pickup App provides businesses across all industries the opportunity to offer customers curbside pickup service for online and phone purchases. Employees can view, in real-time, their store’s pickup orders, communicate with customers when their order is ready for pickup, easily locate customers upon arrival and deliver goods based on the customer’s pick-up preferences. This solution provides overall insights on fulfillment efficiencies and customers’ experiences. 
+The Curbside Pickup App provides businesses across all industries the opportunity to offer customers curbside pickup service for online and phone purchases. Employees can view, in real-time, their store’s pickup orders, communicate with customers when their order is ready for pickup, easily locate customers upon arrival and deliver goods based on the customer’s pick-up preferences. This solution provides overall insights on fulfillment efficiencies and customers’ experiences.
+
+[Curbside Pickup Overview Video](https://youtu.be/1_zhDnmNSsg)
 
 ## Main Components
 - **Customer virtual chat**: Customers can check in and chat with a virtual agent to notify their arrival, location and chosen method of pick up. 
