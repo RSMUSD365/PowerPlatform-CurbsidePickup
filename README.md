@@ -2,6 +2,8 @@
 ## Overview
 The Curbside Pickup App provides businesses across all industries the opportunity to offer customers curbside pickup service for online and phone purchases. Employees can view, in real-time, their store’s pickup orders, communicate with customers when their order is ready for pickup, easily locate customers upon arrival and deliver goods based on the customer’s pick-up preferences. This solution provides overall insights on fulfillment efficiencies and customers’ experiences.
 
+To watch a demo of this solution by our Microsoft Innovation Leader, George Casey, click the video below.
+
 [![Curbside Pickup](http://img.youtube.com/vi/1_zhDnmNSsg/0.jpg)](http://www.youtube.com/watch?v=1_zhDnmNSsg "Curbside Pickup")
 
 ## Main Components
